@@ -1,0 +1,12 @@
+* mongodb
+* Robo 3T / GUI for mongodb
+- collection (tablo gibi düşünelim)
+- show dbs 
+- db /hangi db de olduğunu söyler
+- use "db name" / use or if db not exist create db
+- db.createCollection("collectionName") / create collection
+- show collections / 
+- db."collectionname".insert({city : "St. Petesburg", country : "Russia"})
+- db."collectionname".find() /all data of collection
+- db."collectionname".find().pretty() / the same as find() but not shape is different
+- db."collectionname".find({ city : "St. Petesburg"}) /
