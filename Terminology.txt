@@ -1,0 +1,9 @@
+Relational DB > ElasticSearch
+Database > database
+Table > collection
+Row > document or BSON document
+index>index
+Column > field
+table joins > embedded documents and linking
+aggregation (e.g. group by) > aggregation pipeline
+Shema > Mapping
