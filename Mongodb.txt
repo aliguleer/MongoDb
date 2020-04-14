@@ -1,5 +1,6 @@
 * mongodb
 * Robo 3T / GUI for mongodb
+* Intellij Idea / (Maven) Java Entegration
 - collection (tablo gibi düşünelim)
 - show dbs 
 - db /hangi db de olduğunu söyler
